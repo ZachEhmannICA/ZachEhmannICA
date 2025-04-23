@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZachEhmannICA
+- 👋 Hi, I’m @ZachEhmann
 - 👀 I’m interested in data maturity, transformation applications, visualization, making things better
 - 🌱 I’m currently learning R and/or Python
 - 💞️ I’m looking to collaborate on ending homelessness
